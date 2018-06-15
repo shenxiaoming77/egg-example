@@ -1,4 +1,2 @@
 'use strict';
-
-// had enabled by egg
-// exports.static = true;
+//# sourceMappingURL=plugin.js.map
